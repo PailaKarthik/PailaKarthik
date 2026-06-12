@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner" width="100%" />
+  <img src="ChatGPT Image Jun 12, 2026, 12_45_54 PM.png" width="100%" />
 </p>
 
 <h1 align="center">Karthik Paila</h1>
