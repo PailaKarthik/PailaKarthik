@@ -61,27 +61,83 @@ const karthik = {
 
 ### ⚡ Tech Arsenal
 
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+</tr>
+
+<tr>
+<td>
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c" />
 
-<br><br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,spring" />
+<td>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,docker,aws" />
+</td>
 
-<br><br>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+
+</td>
+
+<td>
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
-</p>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-React Native • Prisma • GraphQL • REST APIs • RAG • Streamlit
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
 </p>
+
+</div>
 
 ---
 
