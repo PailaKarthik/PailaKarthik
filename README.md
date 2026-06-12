@@ -103,7 +103,7 @@ Open Source • System Design • AI Applications • Scalable Backend Systems
 ### Connect
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/paila-karthik/">LinkedIn</a> •
+<a href="https://github.com/PailaKarthik">GitHub</a> •
+<a href="mailto:pailakarthik1933@gmail.com">Email</a>
 </p>
